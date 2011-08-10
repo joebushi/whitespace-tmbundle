@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>changeSpacesToTabs:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>^~t</string>
+	<key>name</key>
+	<string>Convert spaces to tabs</string>
+	<key>uuid</key>
+	<string>DE553A81-8F77-4E38-BE1C-6293AB8F166E</string>
+</dict>
+</plist>
